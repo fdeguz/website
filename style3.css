@@ -1,0 +1,83 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #c54d2f;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1041px;
+  top: 82px;
+  width: 243px;
+  height: 70px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1197px;
+  top: 82px;
+  width: 243px;
+  height: 70px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 788px;
+  top: 79px;
+  width: 253px;
+  height: 55px;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 114px;
+  top: 85px;
+  width: 197px;
+  height: 68px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 50px;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 1182px);
+  top: calc(50% - 229px);
+  width: 1470px;
+  height: 100px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 130px;
+  top: 383px;
+  width: 1189px;
+  height: 358px;
+}
